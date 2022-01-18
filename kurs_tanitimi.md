@@ -101,7 +101,7 @@ __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri pr
 + Kursun toplam ücreti 5.100 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 4.600 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Eğitim Programına Kayıt
-__[Katılım için önce ön kayıt yaptırmalısınız]( https://us06web.zoom.us/meeting/register/tZUlf-CgqTwiG9C7UxdQwMnSZrJsVuGFfSJu)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](  https://us06web.zoom.us/meeting/register/tZwrc-2qrT4iHNHOnBqt-q2mUfoDyVitmfkL)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 __CSharp ile Nesne Yönelimli Programalama Kursu__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online_CSharp_ile_Nesne_Yonelimli_Programlama_Kursu/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
