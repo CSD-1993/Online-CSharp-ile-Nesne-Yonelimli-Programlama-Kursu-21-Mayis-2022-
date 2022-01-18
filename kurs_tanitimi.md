@@ -1,6 +1,6 @@
 # Online CSharp ile Nesne Yönelimli Programlama Kursu
 
-+ Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından düzenlenmektedir. 
++ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
 + Kurs 12.03.2022 tarihinde başlayacaktır.
 
