@@ -20,12 +20,12 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
 ### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __162__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+Eğitim içeriği göz önüne alındığında __160__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Evet kursumuza yurt dışı ya da şehir dışından katılabilirsiniz.  
 
-### Dersler daha erken bir saatte yapılamaz mı?
+### Dersler başka bir saatte yapılamaz mı?
 Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Derslerin daha erken bir saatte yapılması çalışan kişiler için uygun olmayabiliyor. Ders saatleri sizin için uygun değilse hafta sonu kurslarına katılabilirsiniz.
 
 ### Kurstan yüksek verim almam için neler önerirsiniz?
