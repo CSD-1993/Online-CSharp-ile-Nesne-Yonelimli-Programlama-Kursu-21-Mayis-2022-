@@ -1,4 +1,4 @@
-# Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-
+# Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-14-Mayıs-2022-
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
