@@ -1,8 +1,8 @@
-# Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-14-Mayıs-2022-
+# Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Mayıs-2022-
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __14 Mayıs 2022 Cumartesi__ günü başlayacaktır.
++ Kurs __21 Mayıs 2022 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __09:00 - 13:00__ saatleri arasında yapılacaktır.
