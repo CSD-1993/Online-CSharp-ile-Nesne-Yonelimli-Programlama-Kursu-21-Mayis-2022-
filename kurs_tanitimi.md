@@ -2,7 +2,7 @@
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
-+ Kurs 14.05.2022 tarihinde başlayacaktır.
++ Kurs 21.05.2022 tarihinde başlayacaktır.
 
 + Dersler Cumartesi, Pazar günleri, 09:00-13:00 saatleri arasında (4 saat) gerçekleştirilecektir.
 
